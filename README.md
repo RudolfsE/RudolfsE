@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# 🚀 Redirecting
+I'm active at [github.com/revards](https://github.com/revards)
 <!--
 **RudolfsE/RudolfsE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
